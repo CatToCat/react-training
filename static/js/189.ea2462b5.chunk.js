@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkadmin_console_app=self.webpackChunkadmin_console_app||[]).push([[189],{189:(e,n,c)=>{c.r(n),c.d(n,{default:()=>l});c(43);var r=c(579);const l=()=>(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)("h1",{children:"Yan.Ru.Li@ibm.com"}),(0,r.jsx)("h1",{children:"React training final homework"}),(0,r.jsxs)("h1",{children:["Deploy on ",(0,r.jsx)("a",{href:"https://react.lyr.gd.cn",style:{color:"blue",textDecoration:"underline"},children:"https://react.lyr.gd.cn"})]})]})}}]);
+//# sourceMappingURL=189.ea2462b5.chunk.js.map
